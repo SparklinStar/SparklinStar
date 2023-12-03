@@ -54,6 +54,10 @@
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sparklinstar&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
+<p align="center">
+  <img align="center" src="https://api.githubtrends.io/user/svg/SparklinStar/langs?time_range=one_year&include_private=True&loc_metric=changed&compact=True&theme=dark" alt="GitHub Stats" />
+</p>
+
 
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sparklinstar&" alt="GitHub Streak" />
