@@ -45,9 +45,7 @@
   <!-- Add other tools and languages here -->
 </p>
 
-<p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sparklinstar&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
+
 
 <p>&nbsp;</p>
 
