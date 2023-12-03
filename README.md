@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sparklinstar&label=Profile%20views&color=0e75b6&style=flat" alt="sparklinstar" /> </p>
 <a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/tall/64c894e3c3203c87931e781d?variant=dark" alt="roadmap.sh"/></a>
+<a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/tall/64c894e3c3203c87931e781d?variant=dark" alt="roadmap.sh"/></a>
+<a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/tall/64c894e3c3203c87931e781d?variant=dark" alt="roadmap.sh"/></a>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sparklinstar&theme=gruvbox" alt="sparklinstar" /></a> </p>
 
 - 🔭 I’m currently working on **Machine Learning Projects**
