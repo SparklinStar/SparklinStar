@@ -1,14 +1,6 @@
 <h1 align="center">Hi there! 👋 I'm Souradip Pal</h1>
 <h3 align="center">Passionate about Machine Learning and AI</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sparklinstar&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
-<p align="center">
-  <a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/tall/64c894e3c3203c87931e781d?variant=dark" alt="roadmap.sh"/></a>
-  
-</p>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
